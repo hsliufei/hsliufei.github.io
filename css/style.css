@@ -1105,8 +1105,7 @@ img {
   .wrap,
   .outer {
     width: 70rem;
-  }
-  min-height 50rem {
+    min-height: 50rem;
     padding-right: 0;
     padding-left: 0;
   }
